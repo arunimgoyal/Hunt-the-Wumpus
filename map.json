@@ -1,1 +1,182 @@
-
+[
+  {
+    "id": 1,
+    "walls": [true, false, true, false, true, false],
+    "hazard": "none"
+    "player": "true"
+  },
+  {
+    "id": 2,
+    "walls": [true, true, false, false, false, true],
+    "hazard": "pit"
+    "player": "false"
+  },
+  {
+    "id": 3,
+    "walls": [false, true, true, false, false, true],
+    "hazard": "bats"
+    "player": "false"
+  },
+  {
+    "id": 4,
+    "walls": [true, false, true, true, false, false],
+    "hazard": "wumpus"
+    "player": "false"
+  },
+  {
+    "id": 5,
+    "walls": [false, false, false, true, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 6,
+    "walls": [true, true, true, false, false, false],
+    "hazard": "pit"
+    "player": "false"
+  },
+  {
+    "id": 7,
+    "walls": [false, false, true, true, false, true],
+    "hazard": "bats"
+    "player": "false"
+  },
+  {
+    "id": 8,
+    "walls": [true, true, false, true, false, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 9,
+    "walls": [false, false, true, false, true, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 10,
+    "walls": [true, true, false, false, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 11,
+    "walls": [false, true, false, true, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 12,
+    "walls": [true, false, true, false, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 13,
+    "walls": [false, true, true, true, false, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 14,
+    "walls": [true, false, false, true, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 15,
+    "walls": [false, true, false, true, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 16,
+    "walls": [true, false, true, false, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 17,
+    "walls": [false, true, true, false, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 18,
+    "walls": [true, true, false, false, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 19,
+    "walls": [false, false, true, true, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 20,
+    "walls": [true, false, false, true, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 21,
+    "walls": [false, true, false, true, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 22,
+    "walls": [true, true, false, false, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 23,
+    "walls": [false, false, true, true, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 24,
+    "walls": [true, false, true, false, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 25,
+    "walls": [false, true, true, false, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 26,
+    "walls": [true, true, false, false, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 27,
+    "walls": [false, false, true, true, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 28,
+    "walls": [true, false, false, true, true, false],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 29,
+    "walls": [false, true, false, true, false, true],
+    "hazard": "none"
+    "player": "false"
+  },
+  {
+    "id": 30,
+    "walls": [true, true, true, false, false, false],
+    "hazard": "none"
+    "player": "false"
+  }
+]
